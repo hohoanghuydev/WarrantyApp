@@ -22,9 +22,6 @@ namespace QuanLyBaoHanh
         [BsonElement("color")]
         public string Color { get; set; }
 
-        [BsonElement("serial_number")]
-        public string SerialNumber { get; set; }
-
         [BsonElement("import_date")]
         public DateTime ImportDate { get; set; }
 
@@ -38,13 +35,12 @@ namespace QuanLyBaoHanh
         public string Supplier { get; set; }
 
         // Constructor
-        public Products(string name, decimal price, string color, string serialNumber, DateTime importDate, DateTime exportDate, int warrantyPeriod, string supplier)
+        public Products(string name, decimal price, string color, DateTime importDate, DateTime exportDate, int warrantyPeriod, string supplier)
         {
             this.Id = ObjectId.GenerateNewId();
             this.Name = name;
             this.Price = price;
             this.Color = color;
-            this.SerialNumber = serialNumber;
             this.ImportDate = importDate;
             this.ExportDate = exportDate;
             this.WarrantyPeriod = warrantyPeriod;

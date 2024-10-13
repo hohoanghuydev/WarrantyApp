@@ -234,3 +234,121 @@ D:\HocKy7\QuanLyBaoHanh\QuanLyBaoHanh\QuanLyBaoHanh\QuanLyBaoHanh\obj\Debug\Quan
 D:\HocKy7\QuanLyBaoHanh\QuanLyBaoHanh\QuanLyBaoHanh\QuanLyBaoHanh\obj\Debug\QuanLyBa.0E143FF5.Up2Date
 D:\HocKy7\QuanLyBaoHanh\QuanLyBaoHanh\QuanLyBaoHanh\QuanLyBaoHanh\obj\Debug\QuanLyBaoHanh.exe
 D:\HocKy7\QuanLyBaoHanh\QuanLyBaoHanh\QuanLyBaoHanh\QuanLyBaoHanh\obj\Debug\QuanLyBaoHanh.pdb
+C:\Users\lbthi\OneDrive\Tài liệu\GitHub\WarrantyApp\QuanLyBaoHanh\bin\Debug\mongocrypt.dll
+C:\Users\lbthi\OneDrive\Tài liệu\GitHub\WarrantyApp\QuanLyBaoHanh\bin\Debug\QuanLyBaoHanh.exe.config
+C:\Users\lbthi\OneDrive\Tài liệu\GitHub\WarrantyApp\QuanLyBaoHanh\bin\Debug\QuanLyBaoHanh.exe
+C:\Users\lbthi\OneDrive\Tài liệu\GitHub\WarrantyApp\QuanLyBaoHanh\bin\Debug\QuanLyBaoHanh.pdb
+C:\Users\lbthi\OneDrive\Tài liệu\GitHub\WarrantyApp\QuanLyBaoHanh\bin\Debug\AWSSDK.Core.dll
+C:\Users\lbthi\OneDrive\Tài liệu\GitHub\WarrantyApp\QuanLyBaoHanh\bin\Debug\AWSSDK.SecurityToken.dll
+C:\Users\lbthi\OneDrive\Tài liệu\GitHub\WarrantyApp\QuanLyBaoHanh\bin\Debug\DnsClient.dll
+C:\Users\lbthi\OneDrive\Tài liệu\GitHub\WarrantyApp\QuanLyBaoHanh\bin\Debug\Microsoft.Bcl.AsyncInterfaces.dll
+C:\Users\lbthi\OneDrive\Tài liệu\GitHub\WarrantyApp\QuanLyBaoHanh\bin\Debug\Microsoft.Extensions.Logging.Abstractions.dll
+C:\Users\lbthi\OneDrive\Tài liệu\GitHub\WarrantyApp\QuanLyBaoHanh\bin\Debug\Microsoft.Win32.Registry.dll
+C:\Users\lbthi\OneDrive\Tài liệu\GitHub\WarrantyApp\QuanLyBaoHanh\bin\Debug\MongoDB.Bson.dll
+C:\Users\lbthi\OneDrive\Tài liệu\GitHub\WarrantyApp\QuanLyBaoHanh\bin\Debug\MongoDB.Driver.Core.dll
+C:\Users\lbthi\OneDrive\Tài liệu\GitHub\WarrantyApp\QuanLyBaoHanh\bin\Debug\MongoDB.Driver.dll
+C:\Users\lbthi\OneDrive\Tài liệu\GitHub\WarrantyApp\QuanLyBaoHanh\bin\Debug\MongoDB.Libmongocrypt.dll
+C:\Users\lbthi\OneDrive\Tài liệu\GitHub\WarrantyApp\QuanLyBaoHanh\bin\Debug\SharpCompress.dll
+C:\Users\lbthi\OneDrive\Tài liệu\GitHub\WarrantyApp\QuanLyBaoHanh\bin\Debug\Snappier.dll
+C:\Users\lbthi\OneDrive\Tài liệu\GitHub\WarrantyApp\QuanLyBaoHanh\bin\Debug\System.Buffers.dll
+C:\Users\lbthi\OneDrive\Tài liệu\GitHub\WarrantyApp\QuanLyBaoHanh\bin\Debug\System.Memory.dll
+C:\Users\lbthi\OneDrive\Tài liệu\GitHub\WarrantyApp\QuanLyBaoHanh\bin\Debug\System.Numerics.Vectors.dll
+C:\Users\lbthi\OneDrive\Tài liệu\GitHub\WarrantyApp\QuanLyBaoHanh\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+C:\Users\lbthi\OneDrive\Tài liệu\GitHub\WarrantyApp\QuanLyBaoHanh\bin\Debug\System.Security.AccessControl.dll
+C:\Users\lbthi\OneDrive\Tài liệu\GitHub\WarrantyApp\QuanLyBaoHanh\bin\Debug\System.Security.Principal.Windows.dll
+C:\Users\lbthi\OneDrive\Tài liệu\GitHub\WarrantyApp\QuanLyBaoHanh\bin\Debug\System.Text.Encoding.CodePages.dll
+C:\Users\lbthi\OneDrive\Tài liệu\GitHub\WarrantyApp\QuanLyBaoHanh\bin\Debug\System.Threading.Tasks.Extensions.dll
+C:\Users\lbthi\OneDrive\Tài liệu\GitHub\WarrantyApp\QuanLyBaoHanh\bin\Debug\ZstdSharp.dll
+C:\Users\lbthi\OneDrive\Tài liệu\GitHub\WarrantyApp\QuanLyBaoHanh\bin\Debug\AWSSDK.Core.pdb
+C:\Users\lbthi\OneDrive\Tài liệu\GitHub\WarrantyApp\QuanLyBaoHanh\bin\Debug\AWSSDK.Core.xml
+C:\Users\lbthi\OneDrive\Tài liệu\GitHub\WarrantyApp\QuanLyBaoHanh\bin\Debug\AWSSDK.SecurityToken.pdb
+C:\Users\lbthi\OneDrive\Tài liệu\GitHub\WarrantyApp\QuanLyBaoHanh\bin\Debug\AWSSDK.SecurityToken.xml
+C:\Users\lbthi\OneDrive\Tài liệu\GitHub\WarrantyApp\QuanLyBaoHanh\bin\Debug\DnsClient.xml
+C:\Users\lbthi\OneDrive\Tài liệu\GitHub\WarrantyApp\QuanLyBaoHanh\bin\Debug\Microsoft.Bcl.AsyncInterfaces.xml
+C:\Users\lbthi\OneDrive\Tài liệu\GitHub\WarrantyApp\QuanLyBaoHanh\bin\Debug\Microsoft.Extensions.Logging.Abstractions.xml
+C:\Users\lbthi\OneDrive\Tài liệu\GitHub\WarrantyApp\QuanLyBaoHanh\bin\Debug\Microsoft.Win32.Registry.xml
+C:\Users\lbthi\OneDrive\Tài liệu\GitHub\WarrantyApp\QuanLyBaoHanh\bin\Debug\MongoDB.Bson.xml
+C:\Users\lbthi\OneDrive\Tài liệu\GitHub\WarrantyApp\QuanLyBaoHanh\bin\Debug\MongoDB.Driver.xml
+C:\Users\lbthi\OneDrive\Tài liệu\GitHub\WarrantyApp\QuanLyBaoHanh\bin\Debug\MongoDB.Driver.Core.xml
+C:\Users\lbthi\OneDrive\Tài liệu\GitHub\WarrantyApp\QuanLyBaoHanh\bin\Debug\MongoDB.Libmongocrypt.pdb
+C:\Users\lbthi\OneDrive\Tài liệu\GitHub\WarrantyApp\QuanLyBaoHanh\bin\Debug\Snappier.xml
+C:\Users\lbthi\OneDrive\Tài liệu\GitHub\WarrantyApp\QuanLyBaoHanh\bin\Debug\System.Buffers.xml
+C:\Users\lbthi\OneDrive\Tài liệu\GitHub\WarrantyApp\QuanLyBaoHanh\bin\Debug\System.Memory.xml
+C:\Users\lbthi\OneDrive\Tài liệu\GitHub\WarrantyApp\QuanLyBaoHanh\bin\Debug\System.Numerics.Vectors.xml
+C:\Users\lbthi\OneDrive\Tài liệu\GitHub\WarrantyApp\QuanLyBaoHanh\bin\Debug\System.Runtime.CompilerServices.Unsafe.xml
+C:\Users\lbthi\OneDrive\Tài liệu\GitHub\WarrantyApp\QuanLyBaoHanh\bin\Debug\System.Security.AccessControl.xml
+C:\Users\lbthi\OneDrive\Tài liệu\GitHub\WarrantyApp\QuanLyBaoHanh\bin\Debug\System.Security.Principal.Windows.xml
+C:\Users\lbthi\OneDrive\Tài liệu\GitHub\WarrantyApp\QuanLyBaoHanh\bin\Debug\System.Text.Encoding.CodePages.xml
+C:\Users\lbthi\OneDrive\Tài liệu\GitHub\WarrantyApp\QuanLyBaoHanh\bin\Debug\System.Threading.Tasks.Extensions.xml
+C:\Users\lbthi\OneDrive\Tài liệu\GitHub\WarrantyApp\QuanLyBaoHanh\obj\Debug\QuanLyBaoHanh.csproj.AssemblyReference.cache
+C:\Users\lbthi\OneDrive\Tài liệu\GitHub\WarrantyApp\QuanLyBaoHanh\obj\Debug\QuanLyBaoHanh.CustomerForm.resources
+C:\Users\lbthi\OneDrive\Tài liệu\GitHub\WarrantyApp\QuanLyBaoHanh\obj\Debug\QuanLyBaoHanh.EmployeeForm.resources
+C:\Users\lbthi\OneDrive\Tài liệu\GitHub\WarrantyApp\QuanLyBaoHanh\obj\Debug\QuanLyBaoHanh.Form1.resources
+C:\Users\lbthi\OneDrive\Tài liệu\GitHub\WarrantyApp\QuanLyBaoHanh\obj\Debug\QuanLyBaoHanh.ProductForm.resources
+C:\Users\lbthi\OneDrive\Tài liệu\GitHub\WarrantyApp\QuanLyBaoHanh\obj\Debug\QuanLyBaoHanh.Properties.Resources.resources
+C:\Users\lbthi\OneDrive\Tài liệu\GitHub\WarrantyApp\QuanLyBaoHanh\obj\Debug\QuanLyBaoHanh.WarrantyForm.resources
+C:\Users\lbthi\OneDrive\Tài liệu\GitHub\WarrantyApp\QuanLyBaoHanh\obj\Debug\QuanLyBaoHanh.WarrantyHistoryForm.resources
+C:\Users\lbthi\OneDrive\Tài liệu\GitHub\WarrantyApp\QuanLyBaoHanh\obj\Debug\QuanLyBaoHanh.csproj.GenerateResource.cache
+C:\Users\lbthi\OneDrive\Tài liệu\GitHub\WarrantyApp\QuanLyBaoHanh\obj\Debug\QuanLyBaoHanh.csproj.CoreCompileInputs.cache
+C:\Users\lbthi\OneDrive\Tài liệu\GitHub\WarrantyApp\QuanLyBaoHanh\obj\Debug\QuanLyBa.0E143FF5.Up2Date
+C:\Users\lbthi\OneDrive\Tài liệu\GitHub\WarrantyApp\QuanLyBaoHanh\obj\Debug\QuanLyBaoHanh.exe
+C:\Users\lbthi\OneDrive\Tài liệu\GitHub\WarrantyApp\QuanLyBaoHanh\obj\Debug\QuanLyBaoHanh.pdb
+C:\Users\PC\OneDrive\Desktop\WarrantyApp\WarrantyApp\QuanLyBaoHanh\bin\Debug\mongocrypt.dll
+C:\Users\PC\OneDrive\Desktop\WarrantyApp\WarrantyApp\QuanLyBaoHanh\bin\Debug\QuanLyBaoHanh.exe.config
+C:\Users\PC\OneDrive\Desktop\WarrantyApp\WarrantyApp\QuanLyBaoHanh\bin\Debug\QuanLyBaoHanh.exe
+C:\Users\PC\OneDrive\Desktop\WarrantyApp\WarrantyApp\QuanLyBaoHanh\bin\Debug\QuanLyBaoHanh.pdb
+C:\Users\PC\OneDrive\Desktop\WarrantyApp\WarrantyApp\QuanLyBaoHanh\bin\Debug\AWSSDK.Core.dll
+C:\Users\PC\OneDrive\Desktop\WarrantyApp\WarrantyApp\QuanLyBaoHanh\bin\Debug\AWSSDK.SecurityToken.dll
+C:\Users\PC\OneDrive\Desktop\WarrantyApp\WarrantyApp\QuanLyBaoHanh\bin\Debug\DnsClient.dll
+C:\Users\PC\OneDrive\Desktop\WarrantyApp\WarrantyApp\QuanLyBaoHanh\bin\Debug\Microsoft.Bcl.AsyncInterfaces.dll
+C:\Users\PC\OneDrive\Desktop\WarrantyApp\WarrantyApp\QuanLyBaoHanh\bin\Debug\Microsoft.Extensions.Logging.Abstractions.dll
+C:\Users\PC\OneDrive\Desktop\WarrantyApp\WarrantyApp\QuanLyBaoHanh\bin\Debug\Microsoft.Win32.Registry.dll
+C:\Users\PC\OneDrive\Desktop\WarrantyApp\WarrantyApp\QuanLyBaoHanh\bin\Debug\MongoDB.Bson.dll
+C:\Users\PC\OneDrive\Desktop\WarrantyApp\WarrantyApp\QuanLyBaoHanh\bin\Debug\MongoDB.Driver.Core.dll
+C:\Users\PC\OneDrive\Desktop\WarrantyApp\WarrantyApp\QuanLyBaoHanh\bin\Debug\MongoDB.Driver.dll
+C:\Users\PC\OneDrive\Desktop\WarrantyApp\WarrantyApp\QuanLyBaoHanh\bin\Debug\MongoDB.Libmongocrypt.dll
+C:\Users\PC\OneDrive\Desktop\WarrantyApp\WarrantyApp\QuanLyBaoHanh\bin\Debug\SharpCompress.dll
+C:\Users\PC\OneDrive\Desktop\WarrantyApp\WarrantyApp\QuanLyBaoHanh\bin\Debug\Snappier.dll
+C:\Users\PC\OneDrive\Desktop\WarrantyApp\WarrantyApp\QuanLyBaoHanh\bin\Debug\System.Buffers.dll
+C:\Users\PC\OneDrive\Desktop\WarrantyApp\WarrantyApp\QuanLyBaoHanh\bin\Debug\System.Memory.dll
+C:\Users\PC\OneDrive\Desktop\WarrantyApp\WarrantyApp\QuanLyBaoHanh\bin\Debug\System.Numerics.Vectors.dll
+C:\Users\PC\OneDrive\Desktop\WarrantyApp\WarrantyApp\QuanLyBaoHanh\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+C:\Users\PC\OneDrive\Desktop\WarrantyApp\WarrantyApp\QuanLyBaoHanh\bin\Debug\System.Security.AccessControl.dll
+C:\Users\PC\OneDrive\Desktop\WarrantyApp\WarrantyApp\QuanLyBaoHanh\bin\Debug\System.Security.Principal.Windows.dll
+C:\Users\PC\OneDrive\Desktop\WarrantyApp\WarrantyApp\QuanLyBaoHanh\bin\Debug\System.Text.Encoding.CodePages.dll
+C:\Users\PC\OneDrive\Desktop\WarrantyApp\WarrantyApp\QuanLyBaoHanh\bin\Debug\System.Threading.Tasks.Extensions.dll
+C:\Users\PC\OneDrive\Desktop\WarrantyApp\WarrantyApp\QuanLyBaoHanh\bin\Debug\ZstdSharp.dll
+C:\Users\PC\OneDrive\Desktop\WarrantyApp\WarrantyApp\QuanLyBaoHanh\bin\Debug\AWSSDK.Core.pdb
+C:\Users\PC\OneDrive\Desktop\WarrantyApp\WarrantyApp\QuanLyBaoHanh\bin\Debug\AWSSDK.Core.xml
+C:\Users\PC\OneDrive\Desktop\WarrantyApp\WarrantyApp\QuanLyBaoHanh\bin\Debug\AWSSDK.SecurityToken.pdb
+C:\Users\PC\OneDrive\Desktop\WarrantyApp\WarrantyApp\QuanLyBaoHanh\bin\Debug\AWSSDK.SecurityToken.xml
+C:\Users\PC\OneDrive\Desktop\WarrantyApp\WarrantyApp\QuanLyBaoHanh\bin\Debug\DnsClient.xml
+C:\Users\PC\OneDrive\Desktop\WarrantyApp\WarrantyApp\QuanLyBaoHanh\bin\Debug\Microsoft.Bcl.AsyncInterfaces.xml
+C:\Users\PC\OneDrive\Desktop\WarrantyApp\WarrantyApp\QuanLyBaoHanh\bin\Debug\Microsoft.Extensions.Logging.Abstractions.xml
+C:\Users\PC\OneDrive\Desktop\WarrantyApp\WarrantyApp\QuanLyBaoHanh\bin\Debug\Microsoft.Win32.Registry.xml
+C:\Users\PC\OneDrive\Desktop\WarrantyApp\WarrantyApp\QuanLyBaoHanh\bin\Debug\MongoDB.Bson.xml
+C:\Users\PC\OneDrive\Desktop\WarrantyApp\WarrantyApp\QuanLyBaoHanh\bin\Debug\MongoDB.Driver.xml
+C:\Users\PC\OneDrive\Desktop\WarrantyApp\WarrantyApp\QuanLyBaoHanh\bin\Debug\MongoDB.Driver.Core.xml
+C:\Users\PC\OneDrive\Desktop\WarrantyApp\WarrantyApp\QuanLyBaoHanh\bin\Debug\MongoDB.Libmongocrypt.pdb
+C:\Users\PC\OneDrive\Desktop\WarrantyApp\WarrantyApp\QuanLyBaoHanh\bin\Debug\Snappier.xml
+C:\Users\PC\OneDrive\Desktop\WarrantyApp\WarrantyApp\QuanLyBaoHanh\bin\Debug\System.Buffers.xml
+C:\Users\PC\OneDrive\Desktop\WarrantyApp\WarrantyApp\QuanLyBaoHanh\bin\Debug\System.Memory.xml
+C:\Users\PC\OneDrive\Desktop\WarrantyApp\WarrantyApp\QuanLyBaoHanh\bin\Debug\System.Numerics.Vectors.xml
+C:\Users\PC\OneDrive\Desktop\WarrantyApp\WarrantyApp\QuanLyBaoHanh\bin\Debug\System.Runtime.CompilerServices.Unsafe.xml
+C:\Users\PC\OneDrive\Desktop\WarrantyApp\WarrantyApp\QuanLyBaoHanh\bin\Debug\System.Security.AccessControl.xml
+C:\Users\PC\OneDrive\Desktop\WarrantyApp\WarrantyApp\QuanLyBaoHanh\bin\Debug\System.Security.Principal.Windows.xml
+C:\Users\PC\OneDrive\Desktop\WarrantyApp\WarrantyApp\QuanLyBaoHanh\bin\Debug\System.Text.Encoding.CodePages.xml
+C:\Users\PC\OneDrive\Desktop\WarrantyApp\WarrantyApp\QuanLyBaoHanh\bin\Debug\System.Threading.Tasks.Extensions.xml
+C:\Users\PC\OneDrive\Desktop\WarrantyApp\WarrantyApp\QuanLyBaoHanh\obj\Debug\QuanLyBaoHanh.csproj.AssemblyReference.cache
+C:\Users\PC\OneDrive\Desktop\WarrantyApp\WarrantyApp\QuanLyBaoHanh\obj\Debug\QuanLyBaoHanh.CustomerForm.resources
+C:\Users\PC\OneDrive\Desktop\WarrantyApp\WarrantyApp\QuanLyBaoHanh\obj\Debug\QuanLyBaoHanh.EmployeeForm.resources
+C:\Users\PC\OneDrive\Desktop\WarrantyApp\WarrantyApp\QuanLyBaoHanh\obj\Debug\QuanLyBaoHanh.Form1.resources
+C:\Users\PC\OneDrive\Desktop\WarrantyApp\WarrantyApp\QuanLyBaoHanh\obj\Debug\QuanLyBaoHanh.ProductForm.resources
+C:\Users\PC\OneDrive\Desktop\WarrantyApp\WarrantyApp\QuanLyBaoHanh\obj\Debug\QuanLyBaoHanh.Properties.Resources.resources
+C:\Users\PC\OneDrive\Desktop\WarrantyApp\WarrantyApp\QuanLyBaoHanh\obj\Debug\QuanLyBaoHanh.WarrantyForm.resources
+C:\Users\PC\OneDrive\Desktop\WarrantyApp\WarrantyApp\QuanLyBaoHanh\obj\Debug\QuanLyBaoHanh.WarrantyHistoryForm.resources
+C:\Users\PC\OneDrive\Desktop\WarrantyApp\WarrantyApp\QuanLyBaoHanh\obj\Debug\QuanLyBaoHanh.csproj.GenerateResource.cache
+C:\Users\PC\OneDrive\Desktop\WarrantyApp\WarrantyApp\QuanLyBaoHanh\obj\Debug\QuanLyBaoHanh.csproj.CoreCompileInputs.cache
+C:\Users\PC\OneDrive\Desktop\WarrantyApp\WarrantyApp\QuanLyBaoHanh\obj\Debug\QuanLyBa.0E143FF5.Up2Date
+C:\Users\PC\OneDrive\Desktop\WarrantyApp\WarrantyApp\QuanLyBaoHanh\obj\Debug\QuanLyBaoHanh.exe
+C:\Users\PC\OneDrive\Desktop\WarrantyApp\WarrantyApp\QuanLyBaoHanh\obj\Debug\QuanLyBaoHanh.pdb

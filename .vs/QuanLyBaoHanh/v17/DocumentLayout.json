@@ -1,12 +1,52 @@
 {
   "Version": 1,
-  "WorkspaceRootPath": "D:\\HocKy7\\QuanLyBaoHanh\\QuanLyBaoHanh\\QuanLyBaoHanh\\",
-  "Documents": [],
+  "WorkspaceRootPath": "C:\\Users\\PC\\OneDrive\\Desktop\\WarrantyApp\\WarrantyApp\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{26977792-FC4A-4CF6-BE80-C21B378CF56C}|QuanLyBaoHanh\\QuanLyBaoHanh.csproj|c:\\users\\pc\\onedrive\\desktop\\warrantyapp\\warrantyapp\\quanlybaohanh\\warrantyhistoryform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{26977792-FC4A-4CF6-BE80-C21B378CF56C}|QuanLyBaoHanh\\QuanLyBaoHanh.csproj|solutionrelative:quanlybaohanh\\warrantyhistoryform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{26977792-FC4A-4CF6-BE80-C21B378CF56C}|QuanLyBaoHanh\\QuanLyBaoHanh.csproj|C:\\Users\\PC\\OneDrive\\Desktop\\WarrantyApp\\WarrantyApp\\quanlybaohanh\\warrantyhistoryform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{26977792-FC4A-4CF6-BE80-C21B378CF56C}|QuanLyBaoHanh\\QuanLyBaoHanh.csproj|solutionrelative:quanlybaohanh\\warrantyhistoryform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    }
+  ],
   "DocumentGroupContainers": [
     {
       "Orientation": 0,
       "VerticalTabListWidth": 256,
-      "DocumentGroups": []
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "WarrantyHistoryForm.cs",
+              "DocumentMoniker": "C:\\Users\\PC\\OneDrive\\Desktop\\WarrantyApp\\WarrantyApp\\QuanLyBaoHanh\\WarrantyHistoryForm.cs",
+              "RelativeDocumentMoniker": "QuanLyBaoHanh\\WarrantyHistoryForm.cs",
+              "ToolTip": "C:\\Users\\PC\\OneDrive\\Desktop\\WarrantyApp\\WarrantyApp\\QuanLyBaoHanh\\WarrantyHistoryForm.cs",
+              "RelativeToolTip": "QuanLyBaoHanh\\WarrantyHistoryForm.cs",
+              "ViewState": "AgIAAOAAAAAAAAAAAAAYwG0AAAAkAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-13T10:38:58.855Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "WarrantyHistoryForm.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\PC\\OneDrive\\Desktop\\WarrantyApp\\WarrantyApp\\QuanLyBaoHanh\\WarrantyHistoryForm.cs",
+              "RelativeDocumentMoniker": "QuanLyBaoHanh\\WarrantyHistoryForm.cs",
+              "ToolTip": "C:\\Users\\PC\\OneDrive\\Desktop\\WarrantyApp\\WarrantyApp\\QuanLyBaoHanh\\WarrantyHistoryForm.cs [Design]",
+              "RelativeToolTip": "QuanLyBaoHanh\\WarrantyHistoryForm.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-13T10:38:53.909Z"
+            }
+          ]
+        }
+      ]
     }
   ]
 }

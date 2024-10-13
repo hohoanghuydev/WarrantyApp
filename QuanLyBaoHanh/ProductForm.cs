@@ -32,14 +32,12 @@ namespace QuanLyBaoHanh
         {
             textBoxID.Text = dataGridView1.Rows[e.RowIndex].Cells[0].Value.ToString();
             textBoxName.Text = dataGridView1.Rows[e.RowIndex].Cells[1].Value.ToString();
-            textBoxPrice.Text = dataGridView1.Rows[e.RowIndex].Cells[1].Value.ToString();
             textBoxPrice.Text = dataGridView1.Rows[e.RowIndex].Cells[2].Value.ToString();
             textBoxColor.Text = dataGridView1.Rows[e.RowIndex].Cells[3].Value.ToString();
-            textBoxSerialNumber.Text = dataGridView1.Rows[e.RowIndex].Cells[4].Value.ToString();
-            textBoxImportDate.Text = DateTime.Parse(dataGridView1.Rows[e.RowIndex].Cells[5].Value.ToString()).ToString("yyyy-MM-dd");
-            textBoxExportDate.Text = DateTime.Parse(dataGridView1.Rows[e.RowIndex].Cells[6].Value.ToString()).ToString("yyyy-MM-dd");
-            textBoxWarrantyPeriod.Text = dataGridView1.Rows[e.RowIndex].Cells[7].Value.ToString();
-            textBoxSupplier.Text = dataGridView1.Rows[e.RowIndex].Cells[8].Value.ToString();
+            textBoxImportDate.Text = DateTime.Parse(dataGridView1.Rows[e.RowIndex].Cells[4].Value.ToString()).ToString("yyyy-MM-dd");
+            textBoxExportDate.Text = DateTime.Parse(dataGridView1.Rows[e.RowIndex].Cells[5].Value.ToString()).ToString("yyyy-MM-dd");
+            textBoxWarrantyPeriod.Text = dataGridView1.Rows[e.RowIndex].Cells[6].Value.ToString();
+            textBoxSupplier.Text = dataGridView1.Rows[e.RowIndex].Cells[7].Value.ToString();
         }
 
         private void Button1_Click(object sender, EventArgs e)
@@ -48,7 +46,6 @@ namespace QuanLyBaoHanh
                 textBoxName.Text,
                 decimal.Parse(textBoxPrice.Text),
                 textBoxColor.Text,
-                textBoxSerialNumber.Text,
                 DateTime.Parse(textBoxImportDate.Text),
                 DateTime.Parse(textBoxExportDate.Text),
                 int.Parse(textBoxWarrantyPeriod.Text),
@@ -65,7 +62,6 @@ namespace QuanLyBaoHanh
                 .Set("name", textBoxName.Text)
                 .Set("price", decimal.Parse(textBoxPrice.Text))
                 .Set("color", textBoxColor.Text)
-                .Set("serial_number", textBoxSerialNumber.Text)
                 .Set("import_date", DateTime.Parse(textBoxImportDate.Text))
                 .Set("export_date", DateTime.Parse(textBoxExportDate.Text))
                 .Set("warranty_period", int.Parse(textBoxWarrantyPeriod.Text))

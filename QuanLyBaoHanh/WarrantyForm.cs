@@ -36,7 +36,7 @@ namespace QuanLyBaoHanh
             string proId = dataGridView2.CurrentRow.Cells[0].Value.ToString();
             string cusId = dataGridView3.CurrentRow.Cells[0].Value.ToString();
             DateTime currentDate = DateTime.Now;
-            int period = int.Parse(dataGridView2.CurrentRow.Cells[7].Value.ToString());
+            int period = int.Parse(dataGridView2.CurrentRow.Cells[6].Value.ToString());
             DateTime expDate = currentDate.AddMonths(period);
             Warranty w = new Warranty(ObjectId.Parse(cusId), ObjectId.Parse(proId), currentDate,expDate,1);
             Warrantycollection.InsertOne(w);

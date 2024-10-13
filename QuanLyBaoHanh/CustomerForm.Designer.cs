@@ -53,9 +53,10 @@
             this.textBoxID.Enabled = false;
             this.textBoxID.Font = new System.Drawing.Font("Microsoft Sans Serif", 14.25F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
             this.textBoxID.ForeColor = System.Drawing.Color.FromArgb(((int)(((byte)(44)))), ((int)(((byte)(133)))), ((int)(((byte)(141)))));
-            this.textBoxID.Location = new System.Drawing.Point(135, 319);
+            this.textBoxID.Location = new System.Drawing.Point(202, 491);
+            this.textBoxID.Margin = new System.Windows.Forms.Padding(4, 5, 4, 5);
             this.textBoxID.Name = "textBoxID";
-            this.textBoxID.Size = new System.Drawing.Size(395, 29);
+            this.textBoxID.Size = new System.Drawing.Size(590, 40);
             this.textBoxID.TabIndex = 30;
             // 
             // label5
@@ -63,9 +64,10 @@
             this.label5.AutoSize = true;
             this.label5.Font = new System.Drawing.Font("Microsoft Sans Serif", 14.25F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
             this.label5.ForeColor = System.Drawing.Color.FromArgb(((int)(((byte)(44)))), ((int)(((byte)(133)))), ((int)(((byte)(141)))));
-            this.label5.Location = new System.Drawing.Point(6, 429);
+            this.label5.Location = new System.Drawing.Point(9, 660);
+            this.label5.Margin = new System.Windows.Forms.Padding(4, 0, 4, 0);
             this.label5.Name = "label5";
-            this.label5.Size = new System.Drawing.Size(62, 24);
+            this.label5.Size = new System.Drawing.Size(94, 33);
             this.label5.TabIndex = 29;
             this.label5.Text = "Email";
             // 
@@ -73,9 +75,10 @@
             // 
             this.textBoxEmail.Font = new System.Drawing.Font("Microsoft Sans Serif", 14.25F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
             this.textBoxEmail.ForeColor = System.Drawing.Color.FromArgb(((int)(((byte)(44)))), ((int)(((byte)(133)))), ((int)(((byte)(141)))));
-            this.textBoxEmail.Location = new System.Drawing.Point(135, 424);
+            this.textBoxEmail.Location = new System.Drawing.Point(202, 652);
+            this.textBoxEmail.Margin = new System.Windows.Forms.Padding(4, 5, 4, 5);
             this.textBoxEmail.Name = "textBoxEmail";
-            this.textBoxEmail.Size = new System.Drawing.Size(395, 29);
+            this.textBoxEmail.Size = new System.Drawing.Size(590, 40);
             this.textBoxEmail.TabIndex = 28;
             // 
             // label4
@@ -83,9 +86,10 @@
             this.label4.AutoSize = true;
             this.label4.Font = new System.Drawing.Font("Microsoft Sans Serif", 14.25F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
             this.label4.ForeColor = System.Drawing.Color.FromArgb(((int)(((byte)(44)))), ((int)(((byte)(133)))), ((int)(((byte)(141)))));
-            this.label4.Location = new System.Drawing.Point(6, 394);
+            this.label4.Location = new System.Drawing.Point(9, 606);
+            this.label4.Margin = new System.Windows.Forms.Padding(4, 0, 4, 0);
             this.label4.Name = "label4";
-            this.label4.Size = new System.Drawing.Size(71, 24);
+            this.label4.Size = new System.Drawing.Size(103, 33);
             this.label4.TabIndex = 27;
             this.label4.Text = "Phone";
             // 
@@ -93,27 +97,30 @@
             // 
             this.textBoxPhoneNumber.Font = new System.Drawing.Font("Microsoft Sans Serif", 14.25F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
             this.textBoxPhoneNumber.ForeColor = System.Drawing.Color.FromArgb(((int)(((byte)(44)))), ((int)(((byte)(133)))), ((int)(((byte)(141)))));
-            this.textBoxPhoneNumber.Location = new System.Drawing.Point(135, 389);
+            this.textBoxPhoneNumber.Location = new System.Drawing.Point(202, 598);
+            this.textBoxPhoneNumber.Margin = new System.Windows.Forms.Padding(4, 5, 4, 5);
             this.textBoxPhoneNumber.Name = "textBoxPhoneNumber";
-            this.textBoxPhoneNumber.Size = new System.Drawing.Size(395, 29);
+            this.textBoxPhoneNumber.Size = new System.Drawing.Size(590, 40);
             this.textBoxPhoneNumber.TabIndex = 26;
             // 
             // label3
             // 
             this.label3.AutoSize = true;
             this.label3.Font = new System.Drawing.Font("Microsoft Sans Serif", 14.25F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
-            this.label3.Location = new System.Drawing.Point(498, 166);
+            this.label3.Location = new System.Drawing.Point(747, 255);
+            this.label3.Margin = new System.Windows.Forms.Padding(4, 0, 4, 0);
             this.label3.Name = "label3";
-            this.label3.Size = new System.Drawing.Size(0, 24);
+            this.label3.Size = new System.Drawing.Size(0, 33);
             this.label3.TabIndex = 25;
             // 
             // textBoxAddress
             // 
             this.textBoxAddress.Font = new System.Drawing.Font("Microsoft Sans Serif", 14.25F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
             this.textBoxAddress.ForeColor = System.Drawing.Color.FromArgb(((int)(((byte)(44)))), ((int)(((byte)(133)))), ((int)(((byte)(141)))));
-            this.textBoxAddress.Location = new System.Drawing.Point(135, 460);
+            this.textBoxAddress.Location = new System.Drawing.Point(202, 708);
+            this.textBoxAddress.Margin = new System.Windows.Forms.Padding(4, 5, 4, 5);
             this.textBoxAddress.Name = "textBoxAddress";
-            this.textBoxAddress.Size = new System.Drawing.Size(395, 29);
+            this.textBoxAddress.Size = new System.Drawing.Size(590, 40);
             this.textBoxAddress.TabIndex = 21;
             // 
             // label2
@@ -121,9 +128,10 @@
             this.label2.AutoSize = true;
             this.label2.Font = new System.Drawing.Font("Microsoft Sans Serif", 14.25F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
             this.label2.ForeColor = System.Drawing.Color.FromArgb(((int)(((byte)(44)))), ((int)(((byte)(133)))), ((int)(((byte)(141)))));
-            this.label2.Location = new System.Drawing.Point(6, 465);
+            this.label2.Location = new System.Drawing.Point(9, 715);
+            this.label2.Margin = new System.Windows.Forms.Padding(4, 0, 4, 0);
             this.label2.Name = "label2";
-            this.label2.Size = new System.Drawing.Size(87, 24);
+            this.label2.Size = new System.Drawing.Size(129, 33);
             this.label2.TabIndex = 20;
             this.label2.Text = "Address";
             // 
@@ -131,9 +139,10 @@
             // 
             this.textBoxName.Font = new System.Drawing.Font("Microsoft Sans Serif", 14.25F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
             this.textBoxName.ForeColor = System.Drawing.Color.FromArgb(((int)(((byte)(44)))), ((int)(((byte)(133)))), ((int)(((byte)(141)))));
-            this.textBoxName.Location = new System.Drawing.Point(135, 354);
+            this.textBoxName.Location = new System.Drawing.Point(202, 545);
+            this.textBoxName.Margin = new System.Windows.Forms.Padding(4, 5, 4, 5);
             this.textBoxName.Name = "textBoxName";
-            this.textBoxName.Size = new System.Drawing.Size(395, 29);
+            this.textBoxName.Size = new System.Drawing.Size(590, 40);
             this.textBoxName.TabIndex = 19;
             // 
             // label1
@@ -141,9 +150,10 @@
             this.label1.AutoSize = true;
             this.label1.Font = new System.Drawing.Font("Microsoft Sans Serif", 14.25F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
             this.label1.ForeColor = System.Drawing.Color.FromArgb(((int)(((byte)(44)))), ((int)(((byte)(133)))), ((int)(((byte)(141)))));
-            this.label1.Location = new System.Drawing.Point(6, 359);
+            this.label1.Location = new System.Drawing.Point(9, 552);
+            this.label1.Margin = new System.Windows.Forms.Padding(4, 0, 4, 0);
             this.label1.Name = "label1";
-            this.label1.Size = new System.Drawing.Size(65, 24);
+            this.label1.Size = new System.Drawing.Size(97, 33);
             this.label1.TabIndex = 18;
             this.label1.Text = "Name";
             // 
@@ -152,14 +162,17 @@
             this.ID.AutoSize = true;
             this.ID.Font = new System.Drawing.Font("Microsoft Sans Serif", 14.25F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
             this.ID.ForeColor = System.Drawing.Color.FromArgb(((int)(((byte)(44)))), ((int)(((byte)(133)))), ((int)(((byte)(141)))));
-            this.ID.Location = new System.Drawing.Point(6, 324);
+            this.ID.Location = new System.Drawing.Point(9, 498);
+            this.ID.Margin = new System.Windows.Forms.Padding(4, 0, 4, 0);
             this.ID.Name = "ID";
-            this.ID.Size = new System.Drawing.Size(29, 24);
+            this.ID.Size = new System.Drawing.Size(46, 33);
             this.ID.TabIndex = 17;
             this.ID.Text = "ID";
             // 
             // dataGridView1
             // 
+            this.dataGridView1.AllowUserToAddRows = false;
+            this.dataGridView1.AllowUserToDeleteRows = false;
             this.dataGridView1.BackgroundColor = System.Drawing.Color.White;
             dataGridViewCellStyle1.Alignment = System.Windows.Forms.DataGridViewContentAlignment.MiddleLeft;
             dataGridViewCellStyle1.BackColor = System.Drawing.Color.White;
@@ -178,9 +191,11 @@
             dataGridViewCellStyle2.SelectionForeColor = System.Drawing.Color.White;
             dataGridViewCellStyle2.WrapMode = System.Windows.Forms.DataGridViewTriState.False;
             this.dataGridView1.DefaultCellStyle = dataGridViewCellStyle2;
-            this.dataGridView1.Location = new System.Drawing.Point(0, 2);
+            this.dataGridView1.Location = new System.Drawing.Point(0, 3);
+            this.dataGridView1.Margin = new System.Windows.Forms.Padding(4, 5, 4, 5);
             this.dataGridView1.Name = "dataGridView1";
-            this.dataGridView1.Size = new System.Drawing.Size(959, 309);
+            this.dataGridView1.RowHeadersWidth = 62;
+            this.dataGridView1.Size = new System.Drawing.Size(1438, 475);
             this.dataGridView1.TabIndex = 50;
             // 
             // button3
@@ -190,9 +205,10 @@
             this.button3.FlatStyle = System.Windows.Forms.FlatStyle.Flat;
             this.button3.Font = new System.Drawing.Font("Microsoft Sans Serif", 14.25F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
             this.button3.ForeColor = System.Drawing.Color.FromArgb(((int)(((byte)(255)))), ((int)(((byte)(255)))), ((int)(((byte)(203)))));
-            this.button3.Location = new System.Drawing.Point(536, 377);
+            this.button3.Location = new System.Drawing.Point(804, 580);
+            this.button3.Margin = new System.Windows.Forms.Padding(4, 5, 4, 5);
             this.button3.Name = "button3";
-            this.button3.Size = new System.Drawing.Size(100, 50);
+            this.button3.Size = new System.Drawing.Size(150, 77);
             this.button3.TabIndex = 53;
             this.button3.Text = "Sửa";
             this.button3.UseVisualStyleBackColor = false;
@@ -204,9 +220,10 @@
             this.button2.FlatStyle = System.Windows.Forms.FlatStyle.Flat;
             this.button2.Font = new System.Drawing.Font("Microsoft Sans Serif", 14.25F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
             this.button2.ForeColor = System.Drawing.Color.FromArgb(((int)(((byte)(255)))), ((int)(((byte)(255)))), ((int)(((byte)(203)))));
-            this.button2.Location = new System.Drawing.Point(536, 435);
+            this.button2.Location = new System.Drawing.Point(804, 669);
+            this.button2.Margin = new System.Windows.Forms.Padding(4, 5, 4, 5);
             this.button2.Name = "button2";
-            this.button2.Size = new System.Drawing.Size(100, 50);
+            this.button2.Size = new System.Drawing.Size(150, 77);
             this.button2.TabIndex = 52;
             this.button2.Text = "Xóa";
             this.button2.UseVisualStyleBackColor = false;
@@ -218,18 +235,19 @@
             this.button1.FlatStyle = System.Windows.Forms.FlatStyle.Flat;
             this.button1.Font = new System.Drawing.Font("Microsoft Sans Serif", 14.25F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
             this.button1.ForeColor = System.Drawing.Color.FromArgb(((int)(((byte)(255)))), ((int)(((byte)(255)))), ((int)(((byte)(203)))));
-            this.button1.Location = new System.Drawing.Point(536, 319);
+            this.button1.Location = new System.Drawing.Point(804, 491);
+            this.button1.Margin = new System.Windows.Forms.Padding(4, 5, 4, 5);
             this.button1.Name = "button1";
-            this.button1.Size = new System.Drawing.Size(100, 50);
+            this.button1.Size = new System.Drawing.Size(150, 77);
             this.button1.TabIndex = 51;
             this.button1.Text = "Thêm";
             this.button1.UseVisualStyleBackColor = false;
             // 
             // CustomerForm
             // 
-            this.AutoScaleDimensions = new System.Drawing.SizeF(6F, 13F);
+            this.AutoScaleDimensions = new System.Drawing.SizeF(9F, 20F);
             this.AutoScaleMode = System.Windows.Forms.AutoScaleMode.Font;
-            this.ClientSize = new System.Drawing.Size(971, 642);
+            this.ClientSize = new System.Drawing.Size(1456, 988);
             this.Controls.Add(this.button3);
             this.Controls.Add(this.button2);
             this.Controls.Add(this.button1);
@@ -245,6 +263,7 @@
             this.Controls.Add(this.textBoxName);
             this.Controls.Add(this.label1);
             this.Controls.Add(this.ID);
+            this.Margin = new System.Windows.Forms.Padding(4, 5, 4, 5);
             this.Name = "CustomerForm";
             this.Text = "CustomerForm";
             ((System.ComponentModel.ISupportInitialize)(this.dataGridView1)).EndInit();
